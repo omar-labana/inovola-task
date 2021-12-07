@@ -10,6 +10,8 @@ module.exports = {
       'pri': '#8D5DA7',
       'sec': '#FDB515',
       'tert': '#FFD04C',
+      'feat': '#FAFAFC',
+      'white': '#fff',  
     }
   },
   variants: {
