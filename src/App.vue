@@ -1,10 +1,12 @@
 <script setup>
 import Header from './components/Header.vue'
+import Hero from './components/Hero.vue';
+
 </script>
 
 <template>
-  <Header msg="Hello Vue 3 + Vite" />
-  <h1></h1>
+  <Header />
+  <Hero />
 </template>
 
 <style>
