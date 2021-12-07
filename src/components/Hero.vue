@@ -13,7 +13,8 @@ import Grid from './fragments/Grid.vue'
             <span class="mr-3">&#60;</span>
             {{ HeroButton }}
         </a>
-        <div class="relative">
+        <div class="relative my-16 z-0 flex justify-center">
+            <img src="../assets/hero.gif" class="relative rounded-3xl z-10 w-3/4" alt="Cool gif card" /> 
             <Circle />
             <Grid />
         </div>
