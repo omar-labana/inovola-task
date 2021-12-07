@@ -1,9 +1,9 @@
 <script setup>
-// import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue'
 </script>
 
 <template>
-  <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
+  <Header msg="Hello Vue 3 + Vite" />
   <h1></h1>
 </template>
 
