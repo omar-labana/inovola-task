@@ -20,13 +20,13 @@ const FeaturedList = [
     },
     {
         icon: 'sale',
-        title: 'اسعال تنافسيه مع تجربه مجانية وباقات اشتراك متنوعة'
+        title: 'اسعار تنافسيه مع تجربه مجانية وباقات اشتراك متنوعة'
     }
 ]
 const SpecialHeader = 'التطبيقات المميزه';
 const SpeciaSublHeader = 'تطبيقات تقدم حلول وخدمات مميزة نوصي بتجربتها'
 const SpeacialCard = {
-    name: 'قمره',
+    name: 'قمرة',
     creator: 'عمر برهوم',
     nos: '5',
     description: 'نظام الولاء الامثل الذي يمكنك من رفع مبيعاتك',
