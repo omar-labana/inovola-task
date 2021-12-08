@@ -12,6 +12,12 @@ import Footer from './components/Footer.vue';
   <Featured />
   <Special />
   <Footer />
+  <button class="fixed bottom-4 right-4 p-4 rounded-full bg-tert">
+    <img src="./assets/chat.svg" alt="" class="w-8">
+  </button>
+  <button class="fixed bottom-4 left-4 p-3 rounded-full bg-tert">
+    <img src="./assets/arrow.svg" alt="" class="w-6">
+  </button>
 </template>
 
 <style>
