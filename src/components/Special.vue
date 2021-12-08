@@ -18,7 +18,7 @@ import { SpecialHeader, SpeciaSublHeader, SpeacialCard, HeroButton } from '../..
                     <div>
                         <div class="flex gap-3 flex-row-reverse">
                             <h4 class="text-pri font-bold">{{ SpeacialCard.name }}</h4>
-                            <p>{{ SpeacialCard.nos }}</p>
+                            <p>{{ SpeacialCard.nos }} <img src="../assets/star.svg" alt="Cool descriptive alt attr" class="inline w-4"></p>
                         </div>
                         <p class="text-sm text-right">تطوير: <span>{{ SpeacialCard.creator }}</span></p>
                     </div>
