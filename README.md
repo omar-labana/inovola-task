@@ -55,7 +55,7 @@ Here's what you can find:
 
 - [Vite](https://vitejs.dev/)
 - [Vue.js](https://vuejs.org/)
-- [Tailwind CDD](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 <!-- GETTING STARTED -->
 
