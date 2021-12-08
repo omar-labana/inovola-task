@@ -23,5 +23,12 @@ const FeaturedList = [
         title: 'اسعال تنافسيه مع تجربه مجانية وباقات اشتراك متنوعة'
     }
 ]
-
-export { HeaderNavigation, HeroHeader, HeroSubHeader, HeroButton, FeaturedHeading, FeaturedSubHeading, FeaturedList };
+const SpecialHeader = 'التطبيقات المميزه';
+const SpeciaSublHeader = 'تطبيقات تقدم حلول وخدمات مميزة نوصي بتجربتها'
+const SpeacialCard = {
+    name: 'قمره',
+    creator: 'عمر برهوم',
+    nos: '5',
+    description: 'نظام الولاء الامثل الذي يمكنك من رفع مبيعاتك',
+}
+export { HeaderNavigation, HeroHeader, HeroSubHeader, HeroButton, FeaturedHeading, FeaturedSubHeading, FeaturedList, SpecialHeader, SpeciaSublHeader, SpeacialCard  };

@@ -11,7 +11,8 @@ module.exports = {
       'sec': '#FDB515',
       'tert': '#FFD04C',
       'feat': '#FAFAFC',
-      'white': '#fff',  
+      'white': '#fff',
+      'spec': '#F7F7F7',
     }
   },
   variants: {
